@@ -1,6 +1,6 @@
 # Deep Thinking Labs | AI Native Innovation Lab
 
-## Building Less Evil AI
+## 2000% Less Evil AI
 
 - 📍 Location: London, United Kingdom
 - 🌐 Website: [dthink.ai](https://dthink.ai)
