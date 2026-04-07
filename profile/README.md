@@ -1,4 +1,4 @@
-# Deep Thinking Labs | AI Native Innovation Lab
+# Deep Thinking | AI Infrastructure
 
 ## 2000% Less Evil AI
 
@@ -9,4 +9,3 @@
 
 ---
 
-*Transforming ideas into intelligent, decentralized solutions.*
