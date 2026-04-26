@@ -1,4 +1,4 @@
-# Deep Thinking | AI Lab | AI Infrastructure
+# Deep Thinking AI Lab & AI Infrastructure
 
 ## 2000% Less Evil AI
 
