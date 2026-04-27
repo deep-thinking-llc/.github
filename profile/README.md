@@ -1,6 +1,6 @@
-# Deep Thinking AI Lab & AI Infrastructure
+# Deep Thinking AI Lab
 
-## 2000% Less Evil AI
+## Tron - it fights for the user
 
 - 📍 Location: London, United Kingdom
 - 🌐 Website: [dthink.ai](https://dthink.ai)
